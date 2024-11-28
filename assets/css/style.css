@@ -19,6 +19,10 @@ body {
     align-items: center;
 }
 
+::-webkit-scrollbar {
+    display: none;
+}
+
 .header {
     position: absolute;
     top: 50%;
